@@ -17,6 +17,7 @@ The key component is highly inspired from [here](https://github.com/googleanalyt
 After you clone repo. You should
 
 ```javascript
+npm install webpack -g
 npm install
 npm start
 ```
