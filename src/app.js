@@ -207,9 +207,6 @@ class Index extends React.Component {
                 </div>
                 <div id="map">
                 </div>
-                <div id="chart-5-container">
-
-                </div>
             </div>
 
         );
