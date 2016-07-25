@@ -21,4 +21,4 @@ npm install
 npm start
 ```
 
-& open localhost:3001
+Browse http://localhost:3001
