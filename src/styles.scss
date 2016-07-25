@@ -1,0 +1,107 @@
+/*
+http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+a, abbr, acronym, address, applet, article, aside, audio, b, big, blockquote, body, canvas, caption, center, cite, code, dd, del, details, dfn, div, dl, dt, em, embed, fieldset, figcaption, figure, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, html, i, iframe, img, ins, kbd, label, legend, li, mark, menu, nav, object, ol, output, p, pre, q, ruby, s, samp, section, small, span, strike, strong, sub, summary, sup, table, tbody, td, tfoot, th, thead, time, tr, tt, u, ul, var, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  vertical-align: baseline
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+  display: block
+}
+
+body {
+  line-height: 1
+}
+
+ol, ul {
+  list-style: none
+}
+
+blockquote, q {
+  quotes: none
+}
+
+blockquote:after, blockquote:before, q:after, q:before {
+  content: '';
+  content: none
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0
+}
+
+// Site styles
+
+$gunmetal : #2B2D42;
+$grey : #8D99AE;
+$white : #EDF2F4;
+$red : #EF233C;
+$applered : #D90429;
+
+
+@import url('https://fonts.googleapis.com/css?family=Lato:400,300,700');
+
+nav#main {
+  min-height: 110px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  background-color:$gunmetal;
+  #auth-button,#logout,#view-selector{
+    font-family: Lato;
+    color:$white;
+  }
+  button#logout{
+    border-radius: 2px;
+    background-color: #f5f5f5;
+    background-image: -webkit-linear-gradient(top,#f5f5f5,#f1f1f1);
+    background-image: -moz-linear-gradient(top,#f5f5f5,#f1f1f1);
+    background-image: -ms-linear-gradient(top,#f5f5f5,#f1f1f1);
+    background-image: -o-linear-gradient(top,#f5f5f5,#f1f1f1);
+    background-image: linear-gradient(top,#f5f5f5,#f1f1f1);
+    border: 1px solid #dcdcdc;
+    color: #444;
+    cursor: default;
+    font-size: 11px;
+    font-weight: bold;
+    line-height: 27px;
+    list-style: none;
+    margin: 0 2px;
+    min-width: 46px;
+    outline: none;
+    padding: 0 6px 0 6px;
+    text-align: center;
+    text-decoration: none;
+    color:$gunmetal;
+  }
+  .item {
+    &.right{
+      margin-left: auto!important;
+    }
+    padding: 10px;
+    min-height: 50px;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+}
+
+h1.sitename {
+  color: $white;
+  font-weight: 700;
+  font-family: Lato;
+  font-size: 20px;
+}
+#map{
+  height: 1000px;
+}

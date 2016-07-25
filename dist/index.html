@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>GA-realtime-heatmap</title>
+    <!--Google Scripts-->
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC8lmZ1sVmYGV6PRWS-TnLJ4kdx99_xVfw&libraries=visualization" type="text/javascript"></script>
+    <script type="text/javascript">
+        (function(w,d,s,g,js,fjs){
+            g=w.gapi||(w.gapi={});g.analytics={q:[],ready:function(cb){this.q.push(cb)}};
+            js=d.createElement(s);fjs=d.getElementsByTagName(s)[0];
+            js.src='https://apis.google.com/js/platform.js';
+            fjs.parentNode.insertBefore(js,fjs);js.onload=function(){g.load('analytics')};
+        }(window,document,'script'));
+    </script>
+    <!--*** Google Scripts-->
+</head>
+<body>
+    <div id="app"></div>
+<script type="text/javascript" src="app.bundle.js"></script></body>
+</html>
