@@ -19,5 +19,6 @@ After you clone repo. You should
 ```javascript
 npm install
 npm start
+```
 
 & open localhost:3001
