@@ -10,8 +10,6 @@ I used Webpack-Babel-React but you dont need them actually.
 
 ### Building
 
-After cloning repo, 
-
 ```javascript
 npm install webpack -g
 npm install
