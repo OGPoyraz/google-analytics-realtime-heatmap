@@ -2,13 +2,13 @@
 
 This repo uses Google Analytics Realtime API & Google Maps API to demonstrate a realtime heatmap.
 
-I used React for no really-good-reason. You dont need to know React to build a-like-project. 
+I used Webpack-Babel-React but you dont need them actually.
 
 [🦄 Working Demo](http://ogpoyraz.com/google-analytics-realtime-heatmap)
 
 ### About ActiveUsersOnMap Custom Component
 
-You can get more information about [Google Analytics Custom Components](https://developers.google.com/analytics/devguides/reporting/embed/v1/custom-components) from here. 
+More information about [Google Analytics Custom Components](https://developers.google.com/analytics/devguides/reporting/embed/v1/custom-components) from here. 
 
 The key component is highly inspired from [here](https://github.com/googleanalytics/ga-dev-tools/blob/master/src/javascript/embed-api/components/active-users.js).
 
