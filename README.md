@@ -10,7 +10,7 @@ I used Webpack-Babel-React but you dont need them actually.
 
 ### Building
 
-After you clone repo. You should
+After cloning repo, 
 
 ```javascript
 npm install webpack -g
