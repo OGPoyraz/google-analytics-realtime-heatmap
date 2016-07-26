@@ -20,10 +20,10 @@ Browse http://localhost:3001
 ### Google API's I used
 
 If you want to build your own project you should use your own API keys. For keeping it simply I'm using the following Google API's
--Analytics API
--Google Maps JavaScript API
--Google Maps Embed API
--Google Realtime API
+* Analytics API
+* Google Maps JavaScript API
+* Google Maps Embed API
+* Google Realtime API
 You can check their own website for more information.
 
 ### About ActiveUsersOnMap Custom Component
