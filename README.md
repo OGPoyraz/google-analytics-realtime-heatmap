@@ -6,6 +6,8 @@ I used Webpack-Babel-React but you dont need them actually.
 
 [🦄 Working Demo](http://ogpoyraz.com/google-analytics-realtime-heatmap)
 
+!(http://i.giphy.com/3oEjI6Y1CWtwRFUwo0.gif)
+
 ### Building
 
 After you clone repo. You should
