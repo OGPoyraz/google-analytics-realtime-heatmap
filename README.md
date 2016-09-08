@@ -6,7 +6,7 @@ I used Webpack-Babel-React but you dont need them actually.
 
 [🦄 Working Demo](http://ogpoyraz.com/google-analytics-realtime-heatmap)
 
-![Google Analytics Realtime Heatmap](http://i.giphy.com/3oEjI6Y1CWtwRFUwo0.gif)
+![Google Analytics Realtime Heatmap](http://ogpoyraz.com/images/ga-realtime-heatmap-demo.gif)
 
 ### Building
 
