@@ -10,7 +10,7 @@ I used Webpack-Babel-React but you dont need them actually.
 
 ### Building
 
-```javascript
+```bash
 npm install webpack -g
 npm install
 npm start
