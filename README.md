@@ -2,8 +2,6 @@
 
 This repo uses Google Analytics Realtime API & Google Maps API to demonstrate a realtime heatmap.
 
-I used Webpack-Babel-React but you dont need them actually.
-
 [🦄 Working Demo](http://ogpoyraz.com/google-analytics-realtime-heatmap)
 
 ![Google Analytics Realtime Heatmap](http://ogpoyraz.com/images/ga-realtime-heatmap-demo.gif)
