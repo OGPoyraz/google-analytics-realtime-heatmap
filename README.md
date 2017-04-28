@@ -11,8 +11,7 @@ I used Webpack-Babel-React but you dont need them actually.
 ### Building
 
 ```bash
-npm install webpack -g
-npm install
+npm i
 npm start
 ```
 Browse http://localhost:3001
