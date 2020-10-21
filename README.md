@@ -14,7 +14,7 @@ npm start
 ```
 Browse http://localhost:3001
 
-### Google API's I used
+### Google APIs
 
 If you want to build your own project you should use your own API keys. For keeping it simply I'm using the following Google API's
 
