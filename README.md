@@ -2,10 +2,6 @@
 
 This repo uses Google Analytics Realtime API & Google Maps API to demonstrate a realtime heatmap.
 
-[🦄 Working Demo](http://ogpoyraz.com/google-analytics-realtime-heatmap)
-
-![Google Analytics Realtime Heatmap](http://ogpoyraz.com/images/ga-realtime-heatmap-demo.gif)
-
 ### Building
 
 ```bash
